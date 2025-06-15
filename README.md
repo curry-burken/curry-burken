@@ -53,11 +53,11 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=curry-burken&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=curry-burken&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=curry-burken&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=curry-burken&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
