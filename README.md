@@ -48,7 +48,7 @@
 
 ### 📊 GitHub Stats
 
-!(https://github-profile-trophy.vercel.app/?username=curry-burken&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=curry-burken&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=curry-burken&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Frequent Languages" />
