@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm J Pranav Niranjan</h1>
+<h1 align="center">Hi 👋, I'm Pranav Niranjan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Aspiring+MERN+Stack+Developer" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
 #### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
@@ -45,6 +45,8 @@
 </p>
 
 ---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=curry-burken&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
