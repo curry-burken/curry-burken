@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Niranjan</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Aspiring+MERN+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+MERN+Stack+Developer&center=true&size=25&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
