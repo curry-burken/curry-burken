@@ -4,9 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+MERN+Stack+Developer&center=true&size=25&pause=1000" alt="Typing SVG" />
 </p>
 
-<kbd>
-    <img width="400" alt="Dance gif" src="./assets/1.gif" >
-</kbd>
+<p align="center">
+    <kbd>
+        <img width="400" alt="Dance gif" src="./assets/1.gif" >
+    </kbd>
+</p>
 
 ---
 
