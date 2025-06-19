@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/1.gif" alt="Dance gif" width="300" style="max-width: 100%; height: auto;" />
+  <img src="./assets/3.gif" alt="Loop gif" width="300" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
